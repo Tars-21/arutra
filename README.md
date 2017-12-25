@@ -1,2 +1,1 @@
-# arutra
-Library from arduino for building random stuffs (ideas and resources)! From programming to building the circuits.
+Siempre que crearan archivos o modificaran algo, haganlo en la rama "Codigo" no en el "master"
